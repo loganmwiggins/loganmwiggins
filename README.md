@@ -7,7 +7,6 @@
 <!-- Contact Info -->
 <p align="left">
 <a href="https://linkedin.com/in/loganwiggins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganwiggins" height="30" width="40" /></a>
-<a href="https://dribbble.com/loganwiggins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="loganwiggins" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@LoganWiggins1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loganwiggins1" height="30" width="40" /></a>
 </p>
 
