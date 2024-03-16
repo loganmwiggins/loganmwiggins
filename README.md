@@ -5,5 +5,9 @@ I am a senior at Florida State University pursuing a bachelor's degree in Inform
 As a driven entry-level software developer, I love conceptualizing and taking on personal programming projects like my personal website and my integer conversion application, for example.
 
 ## Languages and Tools
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
 
 ## Contact Me
