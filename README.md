@@ -1,6 +1,5 @@
 <h1>
   Hello, I'm Logan Wiggins 👨‍💻
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=loganmwiggins&label=Profile%20views&color=0e75b6&style=flat" alt="loganmwiggins"/>
 </h1>
 
@@ -27,7 +26,7 @@ As a driven entry-level software developer, I like to conceptualize and take on 
 
 <hr>
 <!-- Languages and Tools -->
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools 💻</h3>
 <h4 align="left">
   Front-end: &nbsp;
   <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts" height="40">
@@ -44,3 +43,8 @@ As a driven entry-level software developer, I like to conceptualize and take on 
   Design & Media: &nbsp;
   <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,au,notion" height="40">
 </h4>
+
+<hr>
+<!-- Aspirations -->
+<h3>Forward Thinking 🎯</h3>
+<p>Currently, I'm working on a personal project in which I am using an Angular front-end and a C# .NET back-end utilizing ASP.NET Web API calls. In my current position at JM Family, I am also learning more about C#, .NET, Azure Cloud, React, DB + ORMs, Information Security, Backend Security, Quality Assurance, and more. Additional interests of mine include leadership, enterprise infrastructure, artificial intelligence, and machine learning.</p>
