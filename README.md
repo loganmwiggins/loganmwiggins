@@ -41,6 +41,6 @@ As a driven entry-level software developer, I like to conceptualize and take on 
   <img src="https://skillicons.dev/icons?i=git,github,bitbucket,visualstudio,vscode,eclipse,powershell" height="40">
 </h4>
 <h4 align="left">
-  Media & Design: &nbsp;
+  Design & Media: &nbsp;
   <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,au,notion" height="40">
 </h4>
