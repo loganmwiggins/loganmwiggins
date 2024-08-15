@@ -6,6 +6,19 @@
 
 <!-- Contact Info -->
 <p align="left">
+  <a href="mailto:loganmwiggins1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/loganwiggins" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@LoganWiggins1" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+  </a>
+</p>
+
+
+<p align="left">
 <a href="https://linkedin.com/in/loganwiggins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="loganwiggins" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@LoganWiggins1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loganwiggins1" height="30" width="40" /></a>
 </p>
