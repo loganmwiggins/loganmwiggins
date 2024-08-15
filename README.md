@@ -1,5 +1,5 @@
 <h1>
-  Hello, I'm Logan Wiggins
+  Hello, I'm Logan Wiggins 👨‍💻
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=loganmwiggins&label=Profile%20views&color=0e75b6&style=flat" alt="loganmwiggins"/>
 </h1>
@@ -20,25 +20,11 @@ As a driven entry-level software developer, I like to conceptualize and take on 
 <hr>
 
 <h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-Front-end: &nbsp;
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</p>
-<p align="left">
-Back-end: &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
-<p align="left">
-Other: &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</p>
+<p align="left">Front-end: &nbsp;</p>
+<img src="https://skillicons.dev/icons?i=angular,html,css,js,ts">
+<p align="left">Back-end: &nbsp;</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,mysql,nodejs,npm,php">
+<p align="left">Developer Tools & Applications: &nbsp;</p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,visualstudio,vscode,eclipse,powershell">
+<p align="left">Media & Design: &nbsp;</p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,au,notion">
