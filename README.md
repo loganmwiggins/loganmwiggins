@@ -18,13 +18,21 @@ As a driven entry-level software developer, I like to conceptualize and take on 
 </p>
 
 <hr>
-
+<!-- Languages and Tools -->
 <h3 align="left">Languages and Tools</h3>
-<p align="left">Front-end: &nbsp;</p>
-<img src="https://skillicons.dev/icons?i=angular,html,css,js,ts">
-<p align="left">Back-end: &nbsp;</p>
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,mysql,nodejs,npm,php">
-<p align="left">Developer Tools & Applications: &nbsp;</p>
-<img src="https://skillicons.dev/icons?i=git,github,bitbucket,visualstudio,vscode,eclipse,powershell">
-<p align="left">Media & Design: &nbsp;</p>
-<img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,au,notion">
+<h4 align="left">
+  Front-end: &nbsp;
+  <img src="https://skillicons.dev/icons?i=angular,html,css,js,ts" height="40">
+</h4>
+<h4 align="left">
+  Back-end: &nbsp;
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,mysql,nodejs,npm,php" height="40">
+</h4>
+<h4 align="left">
+  Developer Tools: &nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,visualstudio,vscode,eclipse,powershell" height="40">
+</h4>
+<h4 align="left">
+  Media & Design: &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,au,notion" height="40">
+</h4>
