@@ -18,10 +18,7 @@
 
 <!-- About -->
 <p>
-I am a recent graduate of Florida State University, holding a Bachelor of Science degree in Information Technology with a minor in Computer Science. After graduating Summa Cum Laude, I am eager to continue to apply my skills and knowledge in software development to real-world challenges and opportunities. Throughout my time at FSU, I honed my professional skills through internships, jobs, coursework, and personal projects, preparing myself for a successful career in software development and engineering. I am passionate about leveraging technology to drive innovation and create impactful solutions. In my new role as a software engineer at JM Family Enterprises on the Southeast Toyota Finance team, I am excited to explore new opportunities and contribute to the professional world with enthusiasm and dedication.
-<br>
-<br>
-As a driven entry-level software developer, I like to conceptualize and take on personal programming projects like my <a href="https://www.loganwiggins.com">personal website</a> and my <a href="https://www.wigginsnet.com/int-convert">integer conversion application</a>, for example.
+I'm Logan Wiggins, a software engineer at JM Family Enterprises on the Southeast Toyota Finance team. With a strong foundation in C#, .NET, Angular, JavaScript, and SQL, I focus on creating impactful, efficient solutions that drive innovation. My background includes hands-on experience with full-stack development, cloud solutions, and cybersecurity principles, all of which I apply to tackle complex challenges in my current role.
 </p>
 
 <hr>
