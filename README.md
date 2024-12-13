@@ -40,8 +40,3 @@ I'm Logan Wiggins, a software engineer at JM Family Enterprises on the Southeast
   Design & Media: &nbsp;
   <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,au,notion" height="40">
 </h4>
-
-<hr>
-<!-- Aspirations -->
-<h3>Forward Thinking 🎯</h3>
-<p>Currently, I'm working on a personal project in which I am using an Angular front-end and a C# .NET back-end utilizing ASP.NET Web API calls. In my current position at JM Family, I am also learning more about C#, .NET, Azure Cloud, React, DB + ORMs, Information Security, Backend Security, Quality Assurance, and more. Additional interests of mine include leadership, enterprise infrastructure, artificial intelligence, and machine learning.</p>
